@@ -25,6 +25,8 @@
 		try editing <strong>src/routes/+page.svelte</strong>
 	</h2>
 
+	<h1>Hello world @Defcamp</h1>
+
 	<Counter />
 </section>
 
